@@ -1,0 +1,14 @@
+Limited Permission Notice
+
+The author permits:
+- personal reading of the files in this repository;
+- personal local downloading of the files in this repository for non-commercial reading use;
+- citation of short excerpts with clear attribution, where allowed by applicable law.
+
+The author does not permit, without prior written permission:
+- redistribution of the files, whether modified or unmodified;
+- reposting to other sites, mirrors, archives, or repositories;
+- creation or publication of derivative works, including translations, adaptations, audiobooks, illustrated editions, reformattings for redistribution, or commercial editions;
+- commercial use of the files or associated materials.
+
+All copyright in the original work, translations, cover assets, and repository publication materials remains with Ivan Kotov.

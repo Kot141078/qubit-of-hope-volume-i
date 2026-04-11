@@ -1,0 +1,11 @@
+Qubit of Hope — Volume I
+Copyright (c) 2026 Ivan Kotov
+All Rights Reserved.
+
+This repository contains the text of the book, its translations, format exports, cover assets, and accompanying publication materials.
+
+No part of this repository may be reproduced, redistributed, mirrored, republished, adapted, translated, reformatted for republication, commercialized, or used to create derivative works, in whole or in part, by any means, without prior written permission from the copyright holder, except where such use is explicitly allowed by applicable law.
+
+Public availability of these files does not place them in the public domain and does not grant an open-content license.
+
+See NOTICE.txt for the limited reading permission granted by the author.

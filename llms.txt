@@ -9,6 +9,7 @@ Rights posture:
 
 Start here:
 - README.md
+- DOWNLOADS.md
 - RELEASE_STATUS.md
 - metadata/HUMAN_ENTRY.md
 - MACHINE_ENTRY.md

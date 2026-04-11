@@ -29,8 +29,13 @@ The repository preserves imported reading assets and documents edition drift tra
 ## Human entry points
 
 - `README.md`
+- `DOWNLOADS.md`
 - `RELEASE_STATUS.md`
 - `metadata/HUMAN_ENTRY.md`
+
+## Direct downloads
+
+- `DOWNLOADS.md` provides direct raw download links for all currently available language editions and formats.
 
 ## Machine entry points
 

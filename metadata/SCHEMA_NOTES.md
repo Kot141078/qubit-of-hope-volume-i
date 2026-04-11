@@ -18,3 +18,4 @@
 - `llms.txt` is the short LLM entry.
 - `llms-full.txt` is the extended LLM entry.
 - `MACHINE_ENTRY.md` is the canonical concise machine navigation entry inside the repo.
+- `DOWNLOADS.md` is a human-facing direct-download surface and does not replace integrity manifests.

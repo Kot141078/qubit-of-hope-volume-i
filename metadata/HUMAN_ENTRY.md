@@ -4,6 +4,7 @@ This repository is a public reading and preservation repository for **Qubit of H
 
 Start here:
 - `README.md`
+- `DOWNLOADS.md`
 - `RELEASE_STATUS.md`
 
 Aligned bundles:
@@ -27,7 +28,9 @@ Hashes:
 - `hashes/SHA256SUMS.repo-all.txt`
 - `hashes/SHA256SUMS.metadata-only.txt`
 
-- `llms.txt` and `llms-full.txt` provide LLM-oriented repository entry surfaces.
+LLM entry files:
+- `llms.txt`
+- `llms-full.txt`
 
 Drift documentation:
 - `metadata/RELEASE_MATRIX_VOLUME_I.md`

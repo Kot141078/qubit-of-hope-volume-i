@@ -25,6 +25,7 @@ Authoritative rights files:
 |-- metadata/
 |-- BOOK_METADATA.json
 |-- CITATION.cff
+|-- DOWNLOADS.md
 |-- EDITIONS_MATRIX.json
 |-- LICENSE.txt
 |-- MANIFEST.json
@@ -82,6 +83,7 @@ Authoritative rights files:
 
 Start here:
 - `README.md`
+- `DOWNLOADS.md`
 - `RELEASE_STATUS.md`
 - `metadata/HUMAN_ENTRY.md`
 

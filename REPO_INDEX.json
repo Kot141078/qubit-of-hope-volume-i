@@ -8,6 +8,7 @@
   "citation_file": "CITATION.cff",
   "city": "Brussels",
   "default_branch": "main",
+  "downloads_file": "DOWNLOADS.md",
   "directories": [
     "covers/",
     "editions/",
@@ -22,6 +23,7 @@
   ],
   "key_human_files": [
     "README.md",
+    "DOWNLOADS.md",
     "RELEASE_STATUS.md",
     "REPO_INDEX.md",
     "MACHINE_ENTRY.md",

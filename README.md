@@ -19,6 +19,20 @@ This repository preserves the currently available **Volume I** publication asset
 - Dutch (`nl`)
 - Simplified Chinese (`zh-CN`)
 
+## Direct downloads
+
+Direct download links for all currently available language editions are listed in `DOWNLOADS.md`.
+
+- [Russian](DOWNLOADS.md#ru)
+- [French](DOWNLOADS.md#fr)
+- [Spanish](DOWNLOADS.md#es)
+- [German](DOWNLOADS.md#de)
+- [English](DOWNLOADS.md#en)
+- [Dutch](DOWNLOADS.md#nl)
+- [Simplified Chinese](DOWNLOADS.md#zh-cn)
+
+Localized download prompts are provided on the downloads page in the target language of each edition.
+
 ## Rights
 
 This repository is public for reading and preservation only.

@@ -1,0 +1,36 @@
+{
+  "author": "Ivan Kotov",
+  "author_sort": "Kotov, Ivan",
+  "city": "Brussels",
+  "commercial_use_allowed_without_permission": false,
+  "cover_assets_present": true,
+  "derivative_works_allowed_without_permission": false,
+  "formats_present": [
+    "md",
+    "pdf",
+    "epub",
+    "fb2"
+  ],
+  "languages_present": [
+    "ru",
+    "fr",
+    "es",
+    "de",
+    "en",
+    "nl",
+    "zh-CN"
+  ],
+  "provenance_file": "metadata/SOURCE_PROVENANCE.md",
+  "public_reading_allowed": true,
+  "redistribution_allowed": false,
+  "release_status_file": "RELEASE_STATUS.md",
+  "repository_role": "multilingual reading repository",
+  "rights": "All Rights Reserved",
+  "source_root_preserved_at_import": true,
+  "title": "Qubit of Hope — Volume I",
+  "title_sort": "Qubit of Hope Volume I",
+  "volume_label": "Volume I",
+  "volume_number": 1,
+  "work_type": "novel",
+  "year": 2026
+}

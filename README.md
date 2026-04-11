@@ -79,6 +79,19 @@ That means:
 - the repository can be used for reading immediately;
 - later normalization can happen as an explicit editorial step, not as a silent packaging accident.
 
+## Machine-readable metadata
+
+This repository also includes machine-readable companion files for indexing, cataloging, and preservation workflows.
+
+See:
+- `REPO_INDEX.json`
+- `BOOK_METADATA.json`
+- `EDITIONS_MATRIX.json`
+- `RIGHTS.json`
+- `MANIFEST.json`
+- `metadata/ASSET_MAP.json`
+- `metadata/RELEASE_STATUS.json`
+
 ## Author
 
 **Ivan Kotov**  

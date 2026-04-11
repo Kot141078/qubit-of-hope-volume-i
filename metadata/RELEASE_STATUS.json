@@ -1,0 +1,44 @@
+[
+  {
+    "aligned_boolean": false,
+    "language": "ru",
+    "notes": "master/source and two exports are v1.0; fb2 is v1.1; Kubit family; frozen token on master",
+    "status": "provisional"
+  },
+  {
+    "aligned_boolean": true,
+    "language": "fr",
+    "notes": "v1.1 across all currently available assets",
+    "status": "aligned"
+  },
+  {
+    "aligned_boolean": false,
+    "language": "es",
+    "notes": "master/source is v1.0 while exports are v1.1",
+    "status": "provisional"
+  },
+  {
+    "aligned_boolean": true,
+    "language": "de",
+    "notes": "v1.1 across all currently available assets",
+    "status": "aligned"
+  },
+  {
+    "aligned_boolean": false,
+    "language": "en",
+    "notes": "master/source is v1.0 while exports are v1.1; PDF has copy suffix `(1)`",
+    "status": "provisional"
+  },
+  {
+    "aligned_boolean": true,
+    "language": "nl",
+    "notes": "v1.1 across all currently available assets",
+    "status": "aligned"
+  },
+  {
+    "aligned_boolean": false,
+    "language": "zh-CN",
+    "notes": "master/source is v1.0 while exports are v1.1; master naming family differs from export family",
+    "status": "provisional"
+  }
+]

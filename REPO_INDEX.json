@@ -1,0 +1,111 @@
+{
+  "aligned_bundles": [
+    "fr",
+    "de",
+    "nl"
+  ],
+  "author": "Ivan Kotov",
+  "citation_file": "CITATION.cff",
+  "city": "Brussels",
+  "default_branch": "main",
+  "directories": [
+    "covers/",
+    "editions/",
+    "hashes/",
+    "metadata/"
+  ],
+  "integrity_files": [
+    "hashes/SHA256SUMS.source-tree.txt",
+    "hashes/SHA256SUMS.repo-layout.txt",
+    "hashes/SHA256SUMS.repo-all.txt",
+    "hashes/SHA256SUMS.metadata-only.txt"
+  ],
+  "key_human_files": [
+    "README.md",
+    "RELEASE_STATUS.md",
+    "REPO_INDEX.md",
+    "metadata/HUMAN_ENTRY.md",
+    "metadata/ASSET_MAP.md",
+    "metadata/SOURCE_PROVENANCE.md",
+    "metadata/RELEASE_MATRIX_VOLUME_I.md",
+    "metadata/VERSION_DRIFT_REPORT.md",
+    "metadata/NAMING_DRIFT_REPORT.md",
+    "metadata/EXEC_SUMMARY_FIX.md",
+    "LICENSE.txt",
+    "NOTICE.txt",
+    "CITATION.cff"
+  ],
+  "key_machine_files": [
+    "REPO_INDEX.json",
+    "BOOK_METADATA.json",
+    "EDITIONS_MATRIX.json",
+    "RIGHTS.json",
+    "MANIFEST.json",
+    "metadata/ASSET_MAP.json",
+    "metadata/RELEASE_STATUS.json"
+  ],
+  "language_editions": [
+    {
+      "language": "ru",
+      "notes": "master/source and some exports remain at v1.0 while fb2 is v1.1; Kubit family",
+      "status": "provisional"
+    },
+    {
+      "language": "fr",
+      "notes": "v1.1 across currently available assets",
+      "status": "aligned"
+    },
+    {
+      "language": "es",
+      "notes": "master/source is v1.0 while exports are v1.1",
+      "status": "provisional"
+    },
+    {
+      "language": "de",
+      "notes": "v1.1 across currently available assets",
+      "status": "aligned"
+    },
+    {
+      "language": "en",
+      "notes": "master/source is v1.0 while exports are v1.1; PDF has copy suffix",
+      "status": "provisional"
+    },
+    {
+      "language": "nl",
+      "notes": "v1.1 across currently available assets",
+      "status": "aligned"
+    },
+    {
+      "language": "zh-CN",
+      "notes": "master/source is v1.0 while exports are v1.1; master naming family differs from export family",
+      "status": "provisional"
+    }
+  ],
+  "notes": [
+    "Imported asset filenames are preserved as imported from the source tree.",
+    "This repository is public for reading and preservation only.",
+    "All Rights Reserved remains the governing rights posture.",
+    "Provisional bundles remain documented as provisional and are not silently normalized."
+  ],
+  "provisional_bundles": [
+    "ru",
+    "es",
+    "en",
+    "zh-CN"
+  ],
+  "reading_formats": [
+    "md",
+    "pdf",
+    "epub",
+    "fb2"
+  ],
+  "release_status_file": "RELEASE_STATUS.md",
+  "repo_full_name": "Kot141078/qubit-of-hope-volume-i",
+  "repo_name": "qubit-of-hope-volume-i",
+  "repo_type": "book_repository",
+  "rights": "All Rights Reserved",
+  "source_provenance_file": "metadata/SOURCE_PROVENANCE.md",
+  "title": "Qubit of Hope — Volume I",
+  "visibility": "public",
+  "year": 2026
+}

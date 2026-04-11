@@ -1,0 +1,58 @@
+{
+  "asset_counts": {
+    "cover_assets": 1,
+    "epub": 7,
+    "fb2": 7,
+    "md": 7,
+    "pdf": 7
+  },
+  "created_publicly_on": "2026-04-11",
+  "human_metadata_files": [
+    "README.md",
+    "RELEASE_STATUS.md",
+    "REPO_INDEX.md",
+    "metadata/HUMAN_ENTRY.md",
+    "metadata/ASSET_MAP.md",
+    "metadata/SCHEMA_NOTES.md",
+    "metadata/SOURCE_PROVENANCE.md",
+    "metadata/RELEASE_MATRIX_VOLUME_I.md",
+    "metadata/VERSION_DRIFT_REPORT.md",
+    "metadata/NAMING_DRIFT_REPORT.md",
+    "metadata/EXEC_SUMMARY_FIX.md",
+    "CITATION.cff",
+    "LICENSE.txt",
+    "NOTICE.txt"
+  ],
+  "imported_asset_manifest": "hashes/SHA256SUMS.source-tree.txt",
+  "language_status_summary": {
+    "aligned": [
+      "fr",
+      "de",
+      "nl"
+    ],
+    "provisional": [
+      "ru",
+      "es",
+      "en",
+      "zh-CN"
+    ]
+  },
+  "machine_metadata_files": [
+    "CITATION.cff",
+    "REPO_INDEX.json",
+    "BOOK_METADATA.json",
+    "EDITIONS_MATRIX.json",
+    "RIGHTS.json",
+    "MANIFEST.json",
+    "metadata/ASSET_MAP.json",
+    "metadata/RELEASE_STATUS.json"
+  ],
+  "notes": [
+    "Imported book asset filenames remain preserved as imported from the source tree.",
+    "Asset-only manifests remain the authoritative hashes for imported assets.",
+    "Repo-wide manifests include metadata additions without modifying imported asset bytes."
+  ],
+  "repo_all_manifest": "hashes/SHA256SUMS.repo-all.txt",
+  "repo_full_name": "Kot141078/qubit-of-hope-volume-i",
+  "repo_layout_manifest": "hashes/SHA256SUMS.repo-layout.txt"
+}

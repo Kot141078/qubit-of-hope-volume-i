@@ -17,3 +17,8 @@ Policy for this publication pass:
 - document naming drift and version drift explicitly;
 - separate cover assets from language deliverables;
 - provide SHA-256 manifests for both source-tree evidence and repo-layout evidence.
+
+## Repository hardening follow-up
+
+After first publication, additional machine-readable repository metadata was added without modifying imported book assets.
+These additions improve discoverability, indexing, cataloging, and machine-assisted navigation.

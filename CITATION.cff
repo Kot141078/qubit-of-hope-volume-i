@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you cite this repository or the book editions it preserves, please cite the repository and name the author."
+title: "Qubit of Hope — Volume I"
+type: book
+authors:
+  - family-names: "Kotov"
+    given-names: "Ivan"
+    alias: "Ivan Kotov"
+repository-code: "https://github.com/Kot141078/qubit-of-hope-volume-i"
+license: "All Rights Reserved"
+abstract: >
+  Multilingual reading repository for Volume I of Qubit of Hope by Ivan Kotov.
+  This repository preserves currently available publication assets across seven language editions
+  and four reading formats, with transparent documentation of edition drift where present.
+keywords:
+  - book
+  - novel
+  - multilingual
+  - markdown
+  - pdf
+  - epub
+  - fb2
+  - glass
+  - continuity
+  - Qubit of Hope
+version: "first-publication"
+date-released: 2026-04-11

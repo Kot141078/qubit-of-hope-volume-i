@@ -29,6 +29,8 @@ Authoritative rights files:
 |-- LICENSE.txt
 |-- MANIFEST.json
 |-- MACHINE_ENTRY.md
+|-- llms-full.txt
+|-- llms.txt
 |-- NOTICE.txt
 |-- README.md
 |-- RELEASE_STATUS.md
@@ -64,6 +66,8 @@ Authoritative rights files:
 | `metadata/SCHEMA_NOTES.md` | schema and file-role notes |
 | `metadata/SOURCE_PROVENANCE.md` | import provenance and hardening note |
 | `metadata/HUMAN_ENTRY.md` | short reader landing page |
+| `llms.txt` | short LLM entry surface |
+| `llms-full.txt` | extended LLM entry surface |
 
 ## Integrity files summary
 
@@ -94,6 +98,7 @@ For provisional bundles with documented drift:
 
 ## Machine-readable companions
 
+- `MACHINE_ENTRY.md`
 - `REPO_INDEX.json`
 - `BOOK_METADATA.json`
 - `EDITIONS_MATRIX.json`
@@ -101,3 +106,5 @@ For provisional bundles with documented drift:
 - `MANIFEST.json`
 - `metadata/ASSET_MAP.json`
 - `metadata/RELEASE_STATUS.json`
+- `llms.txt`
+- `llms-full.txt`

@@ -12,3 +12,9 @@
   - `hashes/SHA256SUMS.metadata-only.txt` = legal, index, and metadata files only
 - Drift is described in `RELEASE_STATUS.md`, `metadata/RELEASE_STATUS.json`, `metadata/RELEASE_MATRIX_VOLUME_I.md`, `metadata/VERSION_DRIFT_REPORT.md`, and `metadata/NAMING_DRIFT_REPORT.md`.
 - Imported asset filenames are preserved as-is from the source tree and are not normalized in this repository.
+
+## LLM entry files
+
+- `llms.txt` is the short LLM entry.
+- `llms-full.txt` is the extended LLM entry.
+- `MACHINE_ENTRY.md` is the canonical concise machine navigation entry inside the repo.

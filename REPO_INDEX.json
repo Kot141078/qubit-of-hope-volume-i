@@ -24,6 +24,7 @@
     "README.md",
     "RELEASE_STATUS.md",
     "REPO_INDEX.md",
+    "MACHINE_ENTRY.md",
     "metadata/HUMAN_ENTRY.md",
     "metadata/ASSET_MAP.md",
     "metadata/SOURCE_PROVENANCE.md",
@@ -80,6 +81,11 @@
       "notes": "master/source is v1.0 while exports are v1.1; master naming family differs from export family",
       "status": "provisional"
     }
+  ],
+  "llm_entry_files": [
+    "llms.txt",
+    "llms-full.txt",
+    "MACHINE_ENTRY.md"
   ],
   "notes": [
     "Imported asset filenames are preserved as imported from the source tree.",

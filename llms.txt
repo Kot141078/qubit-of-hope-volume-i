@@ -1,0 +1,37 @@
+# Qubit of Hope — Volume I
+
+Public multilingual reading repository for Volume I by Ivan Kotov.
+
+Rights posture:
+- All Rights Reserved
+- public for reading and preservation
+- redistribution and derivative works require permission
+
+Start here:
+- README.md
+- RELEASE_STATUS.md
+- metadata/HUMAN_ENTRY.md
+- MACHINE_ENTRY.md
+
+Machine-readable files:
+- REPO_INDEX.json
+- BOOK_METADATA.json
+- EDITIONS_MATRIX.json
+- RIGHTS.json
+- MANIFEST.json
+- metadata/ASSET_MAP.json
+- metadata/RELEASE_STATUS.json
+
+Integrity files:
+- hashes/SHA256SUMS.source-tree.txt
+- hashes/SHA256SUMS.repo-layout.txt
+- hashes/SHA256SUMS.repo-all.txt
+- hashes/SHA256SUMS.metadata-only.txt
+
+Language status:
+- aligned: fr, de, nl
+- provisional: ru, es, en, zh-CN
+
+Important note:
+Imported asset filenames are preserved as imported from the source tree.
+Provisional bundles are documented transparently and are not silently normalized.

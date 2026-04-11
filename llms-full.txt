@@ -1,0 +1,66 @@
+# Qubit of Hope — Volume I
+
+## Repository purpose
+
+Public multilingual reading repository for **Qubit of Hope — Volume I** by **Ivan Kotov**.
+The repository preserves imported reading assets and documents edition drift transparently.
+
+## Rights and allowed reading use
+
+- All Rights Reserved
+- public for reading and preservation
+- personal reading is allowed
+- personal local downloading for reading is allowed
+- redistribution requires permission
+- derivative works require permission
+
+## Language editions and status
+
+- aligned: `fr`, `de`, `nl`
+- provisional: `ru`, `es`, `en`, `zh-CN`
+
+## Directory structure
+
+- `covers/` — cover assets
+- `editions/` — language-first reading assets
+- `metadata/` — provenance, drift, and navigation metadata
+- `hashes/` — SHA-256 manifests
+
+## Human entry points
+
+- `README.md`
+- `RELEASE_STATUS.md`
+- `metadata/HUMAN_ENTRY.md`
+
+## Machine entry points
+
+- `MACHINE_ENTRY.md`
+- `REPO_INDEX.json`
+- `BOOK_METADATA.json`
+- `EDITIONS_MATRIX.json`
+- `RIGHTS.json`
+- `MANIFEST.json`
+- `metadata/ASSET_MAP.json`
+- `metadata/RELEASE_STATUS.json`
+
+## Integrity files
+
+- `hashes/SHA256SUMS.source-tree.txt`
+- `hashes/SHA256SUMS.repo-layout.txt`
+- `hashes/SHA256SUMS.repo-all.txt`
+- `hashes/SHA256SUMS.metadata-only.txt`
+
+## Drift documentation
+
+- `RELEASE_STATUS.md`
+- `metadata/RELEASE_MATRIX_VOLUME_I.md`
+- `metadata/VERSION_DRIFT_REPORT.md`
+- `metadata/NAMING_DRIFT_REPORT.md`
+
+## Warning that imported filenames are preserved as-is
+
+Imported asset filenames are preserved as imported from the source tree.
+
+## Warning that provisional bundles remain provisional
+
+Provisional bundles remain provisional and are documented transparently rather than silently normalized.

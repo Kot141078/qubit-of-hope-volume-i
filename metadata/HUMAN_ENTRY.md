@@ -25,6 +25,9 @@ Hashes:
 - `hashes/SHA256SUMS.source-tree.txt`
 - `hashes/SHA256SUMS.repo-layout.txt`
 - `hashes/SHA256SUMS.repo-all.txt`
+- `hashes/SHA256SUMS.metadata-only.txt`
+
+- `llms.txt` and `llms-full.txt` provide LLM-oriented repository entry surfaces.
 
 Drift documentation:
 - `metadata/RELEASE_MATRIX_VOLUME_I.md`

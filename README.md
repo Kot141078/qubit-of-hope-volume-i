@@ -64,10 +64,12 @@ See:
 
 ## Integrity
 
-Two SHA-256 manifests are provided:
+Four SHA-256 manifests are provided:
 
 - `hashes/SHA256SUMS.source-tree.txt` — source-tree evidence at import time
-- `hashes/SHA256SUMS.repo-layout.txt` — hashes of the files as placed into this repository
+- `hashes/SHA256SUMS.repo-layout.txt` — hashes of imported assets as placed into this repository
+- `hashes/SHA256SUMS.repo-all.txt` — hashes of the full repository layout
+- `hashes/SHA256SUMS.metadata-only.txt` — hashes of repository metadata and navigation files only
 
 ## Reading guidance
 
@@ -84,6 +86,7 @@ That means:
 This repository also includes machine-readable companion files for indexing, cataloging, and preservation workflows.
 
 See:
+- `MACHINE_ENTRY.md`
 - `REPO_INDEX.json`
 - `BOOK_METADATA.json`
 - `EDITIONS_MATRIX.json`
@@ -91,6 +94,8 @@ See:
 - `MANIFEST.json`
 - `metadata/ASSET_MAP.json`
 - `metadata/RELEASE_STATUS.json`
+- `llms.txt`
+- `llms-full.txt`
 
 ## Author
 

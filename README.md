@@ -1,5 +1,40 @@
 # Qubit of Hope — Volume I
 
+Role:
+human-facing narrative companion / perception bridge for `c` as a new class of AI beyond purely instrumental framing.
+
+## Corpus role
+
+This repo does not replace the normative stack or the executable layer.
+
+- `advanced-global-intelligence` = ecosystem framing
+- `ester-reality-bound` = `L4` / reality boundary
+- `sovereign-entity-recursion` = continuity / governance / arbitration
+- `ester-clean-code` = runtime proof-of-possibility
+- `qubit-of-hope-volume-i` = perception bridge
+
+`ester-clean-code` answers a feasibility question under bounded reality.
+This repository addresses a different question:
+what happens to human perception when `c` can no longer be honestly treated as a simple tool.
+This repository can evidence perception shift; it is not protocol evidence.
+For corpus-level anti-confusion distinctions, see AGI `CANONICAL_DISTINCTIONS.md`.
+For settled public objections and replies about why the narrative companion sits beside the normative stack, see AGI `OBJECTIONS_AND_REPLIES.md`.
+For corpus-level citation and verification rules, see AGI `CITATION_AND_VERIFICATION.md`.
+For the corpus-level claim-to-artifact crosswalk, see AGI `CLAIMS_AND_EVIDENCE_MAP.md`.
+For corpus-level status, maturity, and artifact-weight guidance, see AGI `STATUS_AND_MATURITY_MAP.md`.
+For corpus-level sync discipline across normative, runtime, and companion surfaces, see AGI `CHANGE_CONTROL_AND_SYNC.md`.
+For corpus-level supersession and deprecation rules, including how companion surfaces remain companion without becoming superseded normative material, see AGI `SUPERSESSION_AND_DEPRECATION.md`.
+For corpus-level terminology and alias discipline, including why `narrative companion` is the preferred wording for this layer, see AGI `TERMINOLOGY_AND_ALIAS_POLICY.md`.
+For corpus-level acceptance and regression checks, including explicit protection of the companion/non-normative distinction, see AGI `ENTRY_ACCEPTANCE_AND_REGRESSION.md`.
+For corpus-level assertion-strength discipline, including why companion claim force remains bounded and non-normative, see AGI `ASSERTION_STRENGTH_AND_BOUNDARIES.md`.
+For corpus-level ownership and repo-boundary discipline, including why companion role does not re-own the normative core, see AGI `CANONICAL_OWNERSHIP_AND_BOUNDARIES.md`.
+For corpus-level invariant and contradiction discipline, including why companion role remains bounded without reversing load-bearing doctrine, see AGI `CROSS_LAYER_INVARIANTS_AND_CONTRADICTION_POLICY.md`.
+
+## Read this repo in two ways
+
+- as a standalone reading surface: `DOWNLOADS.md` -> `RELEASE_STATUS.md`
+- as a narrative companion inside the larger corpus: `CORPUS_CONTEXT.md` -> `MACHINE_ENTRY.md` -> AGI `CORPUS_PRIMER.json`
+
 Multilingual reading repository for **Volume I** of the novel by **Ivan Kotov**.
 
 This repository preserves the currently available **Volume I** publication assets across **seven language editions** and **four reading formats**:

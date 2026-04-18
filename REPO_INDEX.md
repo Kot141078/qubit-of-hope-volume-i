@@ -5,6 +5,34 @@
 This repository preserves the currently available multilingual reading editions of **Qubit of Hope — Volume I** by **Ivan Kotov**.
 It is a public reading and preservation repository with transparent documentation of edition drift.
 
+## Corpus role
+
+Role:
+human-facing narrative companion / perception bridge for `c` as a new class of AI beyond purely instrumental framing.
+
+This repository is the human-facing narrative companion in the same public corpus as:
+
+- `Kot141078/advanced-global-intelligence`
+- `Kot141078/ester-reality-bound`
+- `Kot141078/sovereign-entity-recursion`
+- `Kot141078/ester-clean-code`
+
+Canonical context file:
+- `CORPUS_CONTEXT.md`
+
+Corpus-level references:
+- `https://raw.githubusercontent.com/Kot141078/advanced-global-intelligence/main/CORPUS_PRIMER.json`
+- `https://raw.githubusercontent.com/Kot141078/advanced-global-intelligence/main/STACK_LOCK_2026-04-12.json`
+- `https://raw.githubusercontent.com/Kot141078/advanced-global-intelligence/main/CANONICAL_DISTINCTIONS.md`
+- `https://raw.githubusercontent.com/Kot141078/advanced-global-intelligence/main/OBJECTIONS_AND_REPLIES.md`
+- `https://raw.githubusercontent.com/Kot141078/advanced-global-intelligence/main/CITATION_AND_VERIFICATION.md`
+- `https://raw.githubusercontent.com/Kot141078/advanced-global-intelligence/main/CLAIMS_AND_EVIDENCE_MAP.md`
+- `https://raw.githubusercontent.com/Kot141078/advanced-global-intelligence/main/STATUS_AND_MATURITY_MAP.md`
+
+Read this repo in two ways:
+- standalone reading surface: `DOWNLOADS.md` -> `RELEASE_STATUS.md`
+- narrative companion in corpus: `CORPUS_CONTEXT.md` -> AGI `CORPUS_PRIMER.json`
+
 ## Rights
 
 This repository is public for reading and preservation only.
@@ -25,6 +53,7 @@ Authoritative rights files:
 |-- metadata/
 |-- BOOK_METADATA.json
 |-- CITATION.cff
+|-- CORPUS_CONTEXT.md
 |-- DOWNLOADS.md
 |-- EDITIONS_MATRIX.json
 |-- LICENSE.txt
@@ -82,6 +111,7 @@ Authoritative rights files:
 ## Canonical reading path
 
 Start here:
+- `CORPUS_CONTEXT.md`
 - `README.md`
 - `DOWNLOADS.md`
 - `RELEASE_STATUS.md`

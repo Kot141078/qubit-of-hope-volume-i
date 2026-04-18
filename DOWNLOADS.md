@@ -101,9 +101,14 @@ Status: provisional
 
 ## Rights
 
-See:
-- `LICENSE.txt`
-- `NOTICE.txt`
+All Rights Reserved.
+
+Files are provided for public reading in the repository.
+Local download for personal reading is allowed.
+Short quotation is allowed where permitted by applicable law.
+Redistribution, mirror upload, translation, derivative works (including adaptations and audiobooks), and commercial reuse without prior written permission are not allowed.
+
+See `LICENSE.txt`, `NOTICE.txt`, and `RIGHTS.json`.
 
 ## Integrity
 

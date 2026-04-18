@@ -33,6 +33,8 @@ The other four language bundles are included transparently as currently availabl
 
 ## Metadata
 
+Rights posture: All Rights Reserved. Public reading in the repository and local personal download are allowed; reuse beyond short quotation requires permission.
+
 See:
 - `metadata/RELEASE_MATRIX_VOLUME_I.md`
 - `metadata/VERSION_DRIFT_REPORT.md`

@@ -27,3 +27,5 @@ Policy:
 - original filenames preserved
 - rights retained by author
 - integrity manifests created
+
+- 2026-04-18T13:28:00+02:00 — rights surfaces normalized for Volume I; no changes to rights policy substance; no changes to edition assets; no backlink to Volume II added; metadata-only and repo-all manifests refreshed

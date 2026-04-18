@@ -19,8 +19,11 @@ Provisional bundles:
 - `zh-CN`
 
 Rights:
-- `LICENSE.txt`
-- `NOTICE.txt`
+- All Rights Reserved
+- public reading in the repository is allowed
+- local personal download is allowed
+- reuse beyond short quotation requires permission
+- see `LICENSE.txt`, `NOTICE.txt`, `RIGHTS.json`
 
 Hashes:
 - `hashes/SHA256SUMS.source-tree.txt`

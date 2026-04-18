@@ -4,8 +4,10 @@ Public multilingual reading repository for Volume I by Ivan Kotov.
 
 Rights posture:
 - All Rights Reserved
-- public for reading and preservation
-- redistribution and derivative works require permission
+- public reading in repository is allowed
+- local personal download is allowed
+- redistribution, mirror upload, translation, derivative works, audiobook production, and commercial reuse require prior written permission
+- authoritative files: RIGHTS.json / LICENSE.txt / NOTICE.txt
 
 Start here:
 - README.md

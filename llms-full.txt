@@ -8,11 +8,11 @@ The repository preserves imported reading assets and documents edition drift tra
 ## Rights and allowed reading use
 
 - All Rights Reserved
-- public for reading and preservation
-- personal reading is allowed
+- public reading in repository is allowed
 - personal local downloading for reading is allowed
-- redistribution requires permission
-- derivative works require permission
+- short quotation where permitted by law is allowed
+- redistribution, mirroring, translation, derivative works including audiobooks, and commercial reuse require prior written permission
+- authoritative rights surfaces: `RIGHTS.json`, `LICENSE.txt`, `NOTICE.txt`
 
 ## Language editions and status
 

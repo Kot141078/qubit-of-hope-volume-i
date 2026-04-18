@@ -50,3 +50,4 @@ Next:
 - `README.md`
 - `MACHINE_ENTRY.md`
 - `BOOK_METADATA.json`
+- `https://github.com/Kot141078/qubit-of-hope-volume-ii`

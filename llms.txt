@@ -16,6 +16,8 @@ Start here:
 - metadata/HUMAN_ENTRY.md
 - MACHINE_ENTRY.md
 
+Next volume URL: https://github.com/Kot141078/qubit-of-hope-volume-ii
+
 Machine-readable files:
 - REPO_INDEX.json
 - BOOK_METADATA.json

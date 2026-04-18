@@ -18,6 +18,8 @@ human-facing narrative companion / perception bridge for `c` as a new class of A
   - `CORPUS_CONTEXT.md`
 - machine corpus context:
   - `https://raw.githubusercontent.com/Kot141078/advanced-global-intelligence/main/STACK_LOCK_2026-04-12.json`
+- next volume:
+  - `https://github.com/Kot141078/qubit-of-hope-volume-ii`
 
 ## Corpus refs
 

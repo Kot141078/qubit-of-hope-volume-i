@@ -129,6 +129,7 @@ That means:
 - drift is documented rather than hidden;
 - the repository can be used for reading immediately;
 - later normalization can happen as an explicit editorial step, not as a silent packaging accident.
+- Next volume: `https://github.com/Kot141078/qubit-of-hope-volume-ii`
 
 ## Machine-readable metadata
 

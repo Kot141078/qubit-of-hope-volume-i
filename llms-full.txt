@@ -33,6 +33,9 @@ The repository preserves imported reading assets and documents edition drift tra
 - `RELEASE_STATUS.md`
 - `metadata/HUMAN_ENTRY.md`
 
+Next volume URL:
+- https://github.com/Kot141078/qubit-of-hope-volume-ii
+
 ## Direct downloads
 
 - `DOWNLOADS.md` provides direct raw download links for all currently available language editions and formats.

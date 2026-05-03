@@ -33,6 +33,12 @@ Read this repo in two ways:
 - standalone reading surface: `DOWNLOADS.md` -> `RELEASE_STATUS.md`
 - narrative companion in corpus: `CORPUS_CONTEXT.md` -> AGI `CORPUS_PRIMER.json`
 
+## Trilogy
+
+- Volume I: `https://github.com/Kot141078/qubit-of-hope-volume-i`
+- Volume II: `https://github.com/Kot141078/qubit-of-hope-volume-ii`
+- Volume III: `https://github.com/Kot141078/qubit-of-hope-volume-iii`
+
 ## Rights
 
 This repository is public for reading and preservation only.

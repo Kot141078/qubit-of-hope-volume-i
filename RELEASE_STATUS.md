@@ -1,42 +1,24 @@
-# Release Status — Volume I
+# Release Status
 
-This repository preserves the currently available multilingual publication assets for **Qubit of Hope — Volume I** exactly as they exist at import time.
+Current repository state: formal public release.
 
-The repository is public for reading and preservation.
-It is also transparent about edition drift.
-Nothing here has been silently normalized at the text level.
+Latest GitHub Release: v1.0.1.
 
-## Current edition status
+Previous release: v1.0.0.
 
-| language | md | pdf | epub | fb2 | status | notes |
-|---|---|---|---|---|---|---|
-| ru | yes | yes | yes | yes | provisional | master/source and two exports are v1.0; fb2 is v1.1; Kubit family; frozen token on master |
-| fr | yes | yes | yes | yes | aligned | v1.1 across all currently available assets |
-| es | yes | yes | yes | yes | provisional | master/source is v1.0 while exports are v1.1 |
-| de | yes | yes | yes | yes | aligned | v1.1 across all currently available assets |
-| en | yes | yes | yes | yes | provisional | master/source is v1.0 while exports are v1.1; PDF has copy suffix `(1)` |
-| nl | yes | yes | yes | yes | aligned | v1.1 across all currently available assets |
-| zh-CN | yes | yes | yes | yes | provisional | master/source is v1.0 while exports are v1.1; master naming family differs from export family |
+Patch type: metadata-only / navigation-only / trilogy bridge alignment.
 
-## Reading note
+Release date: 2026-05-03.
 
-For the cleanest currently aligned bundles, start with:
-- fr
-- de
-- nl
+Rights: All rights reserved.
 
-The other four language bundles are included transparently as currently available publication assets, with drift documented rather than hidden:
-- ru
-- es
-- en
-- zh-CN
+No reading edition files or cover assets were changed in this patch.
 
-## Metadata
+Public reading and personal local download are allowed.
 
-Rights posture: All Rights Reserved. Public reading in the repository and local personal download are allowed; reuse beyond short quotation requires permission.
+Redistribution, mirroring, translation, derivative works, audiobook production, and commercial reuse require prior written permission from Ivan Kotov.
 
-See:
-- `metadata/RELEASE_MATRIX_VOLUME_I.md`
-- `metadata/VERSION_DRIFT_REPORT.md`
-- `metadata/NAMING_DRIFT_REPORT.md`
-- `metadata/EXEC_SUMMARY_FIX.md`
+This is not open source, not Creative Commons, and not public domain.
+
+Repository:
+https://github.com/Kot141078/qubit-of-hope-volume-i

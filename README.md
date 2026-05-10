@@ -71,14 +71,22 @@ Localized download prompts are provided on the downloads page in the target lang
 ## Rights
 
 This repository is public for reading and preservation only.
+Public reading in this repository: yes.
+Personal local download for reading: yes.
 
 **All Rights Reserved.**
 
 Copyright remains with **Ivan Kotov**.
 
+Redistribution, mirroring, republication, translation, derivative works, adaptation, audiobook production, AI training, corpus ingestion, dataset redistribution, and commercial reuse without prior written permission: no.
+
+This is not an open-source, Creative Commons, public-domain, or free-reuse repository.
+
 See:
 - `LICENSE.txt`
 - `NOTICE.txt`
+- `RIGHTS.json`
+- `AUDIOBOOK_RIGHTS.md`
 
 ## Current status
 

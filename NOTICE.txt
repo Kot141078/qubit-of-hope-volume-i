@@ -9,6 +9,9 @@ The author does not permit, without prior written permission:
 - redistribution of the files, whether modified or unmodified;
 - reposting to other sites, mirrors, archives, or repositories;
 - creation or publication of derivative works, including translations, adaptations, audiobooks, illustrated editions, reformattings for redistribution, or commercial editions;
+- AI training, machine-learning dataset use, corpus ingestion for third-party dataset redistribution, voice cloning, synthetic voice production, or text-to-speech redistribution;
 - commercial use of the files or associated materials.
+
+This repository is not open source, not Creative Commons, and not public domain.
 
 All copyright in the original work, translations, cover assets, and repository publication materials remains with Ivan Kotov.

@@ -1,14 +1,14 @@
 # Source Provenance
 
-Imported from local source root:
+Source location status:
 
-`C:\Users\kotov\Desktop\AGI\Книга Кубит надежды\Первый том`
+`External local intake path removed for public portability`
 
 Import timestamp:
 `2026-04-11T14:15:05.6158325+02:00`
 
-Repository local import path:
-`C:\Users\kotov\Desktop\AGI\qubit-of-hope-volume-i`
+Repository-relative import root:
+`.`
 
 Policy for this publication pass:
 - preserve source bytes exactly;

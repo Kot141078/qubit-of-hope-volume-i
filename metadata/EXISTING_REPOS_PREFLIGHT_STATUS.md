@@ -2,9 +2,9 @@
 
 Recorded before creating `qubit-of-hope-volume-i`.
 
-| repository | local_path | git_status |
+| repository | public_reference | git_status |
 |---|---|---|
-| advanced-global-intelligence | `C:\Users\kotov\Desktop\AGI\advanced-global-intelligence` | `## main...origin/main` |
-| sovereign-entity-recursion | `C:\Users\kotov\Desktop\AGI\sovereign-entity-recursion` | `## main...origin/main` |
-| ester-reality-bound | `C:\Users\kotov\Desktop\AGI\ester-reality-bound` | `## main...origin/main` |
-| ester-clean-code | `C:\Users\kotov\Desktop\AGI\ester-clean-code` | `## main...origin/main` |
+| advanced-global-intelligence | `Kot141078/advanced-global-intelligence (local mirror path removed for public portability)` | `## main...origin/main` |
+| sovereign-entity-recursion | `Kot141078/sovereign-entity-recursion (local mirror path removed for public portability)` | `## main...origin/main` |
+| ester-reality-bound | `Kot141078/ester-reality-bound (local mirror path removed for public portability)` | `## main...origin/main` |
+| ester-clean-code | `Kot141078/ester-clean-code (local mirror path removed for public portability)` | `## main...origin/main` |

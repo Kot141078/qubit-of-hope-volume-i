@@ -2,11 +2,13 @@
 
 ## Release state
 
-Latest release: `v1.0.1`.
-Previous release: `v1.0.0`.
-Patch type: metadata-only / navigation-only / trilogy bridge alignment.
+Latest release: `v1.0.2`.
+Previous release: `v1.0.1`.
+Patch type: rights and public metadata portability patch.
 No reading edition files or cover assets were changed in this patch.
-Release URL: `https://github.com/Kot141078/qubit-of-hope-volume-i/releases/tag/v1.0.1`
+Release URL: `https://github.com/Kot141078/qubit-of-hope-volume-i/releases/tag/v1.0.2`
+
+v1.0.2 is a rights and public-metadata portability patch. The literary reading editions are byte-identical to v1.0.1.
 
 ## Repository purpose
 
@@ -56,6 +58,8 @@ Authoritative rights files:
 - `LICENSE.txt`
 - `NOTICE.txt`
 - `RIGHTS.json`
+- `AUDIOBOOK_RIGHTS.md`
+- `MEDIA_ADAPTATION_RIGHTS.md`
 
 ## Directory tree
 
@@ -66,6 +70,7 @@ Authoritative rights files:
 |-- hashes/
 |-- metadata/
 |-- BOOK_METADATA.json
+|-- AUDIOBOOK_RIGHTS.md
 |-- CITATION.cff
 |-- CORPUS_CONTEXT.md
 |-- DOWNLOADS.md
@@ -73,6 +78,7 @@ Authoritative rights files:
 |-- LICENSE.txt
 |-- MANIFEST.json
 |-- MACHINE_ENTRY.md
+|-- MEDIA_ADAPTATION_RIGHTS.md
 |-- llms-full.txt
 |-- llms.txt
 |-- NOTICE.txt
@@ -117,10 +123,10 @@ Authoritative rights files:
 
 | file | role |
 |---|---|
-| `hashes/SHA256SUMS.source-tree.txt` | hashes for the imported source-tree asset set |
-| `hashes/SHA256SUMS.repo-layout.txt` | hashes for the imported asset set as placed in this repo |
-| `hashes/SHA256SUMS.repo-all.txt` | hashes for the full repository contents excluding `.git` |
-| `hashes/SHA256SUMS.metadata-only.txt` | hashes for metadata and legal/index files only |
+| `hashes/SHA256SUMS.source-tree.txt` | protected reading and cover assets, using repository-relative paths and exact staged-byte SHA-256 values |
+| `hashes/SHA256SUMS.repo-layout.txt` | all non-checksum repository-relative path strings, hashed as exact UTF-8 path bytes according to the existing repository design (not a file-content manifest) |
+| `hashes/SHA256SUMS.repo-all.txt` | all non-checksum repository files, using exact staged-byte SHA-256 values |
+| `hashes/SHA256SUMS.metadata-only.txt` | legal, navigation, index, and metadata files, using exact staged-byte SHA-256 values |
 
 ## Canonical reading path
 
@@ -154,3 +160,5 @@ For provisional bundles with documented drift:
 - `metadata/RELEASE_STATUS.json`
 - `llms.txt`
 - `llms-full.txt`
+
+Rights files: `LICENSE.txt`, `NOTICE.txt`, `RIGHTS.json`, `AUDIOBOOK_RIGHTS.md`, `MEDIA_ADAPTATION_RIGHTS.md`.

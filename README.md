@@ -1,5 +1,9 @@
 # Qubit of Hope — Volume I
 
+## Release v1.0.2
+
+v1.0.2 is a rights and public-metadata portability patch. The literary reading editions are byte-identical to v1.0.1.
+
 Role:
 human-facing narrative companion / perception bridge for `c` as a new class of AI beyond purely instrumental framing.
 
@@ -123,10 +127,10 @@ See:
 
 Four SHA-256 manifests are provided:
 
-- `hashes/SHA256SUMS.source-tree.txt` — source-tree evidence at import time
-- `hashes/SHA256SUMS.repo-layout.txt` — hashes of imported assets as placed into this repository
-- `hashes/SHA256SUMS.repo-all.txt` — hashes of the full repository layout
-- `hashes/SHA256SUMS.metadata-only.txt` — hashes of repository metadata and navigation files only
+- `hashes/SHA256SUMS.source-tree.txt`: protected reading and cover assets, using repository-relative paths and exact staged-byte SHA-256 values.
+- `hashes/SHA256SUMS.repo-layout.txt`: all non-checksum repository-relative path strings, hashed as exact UTF-8 path bytes according to the existing repository design (not a file-content manifest).
+- `hashes/SHA256SUMS.repo-all.txt`: all non-checksum repository files, using exact staged-byte SHA-256 values.
+- `hashes/SHA256SUMS.metadata-only.txt`: legal, navigation, index, and metadata files, using exact staged-byte SHA-256 values.
 
 ## Reading guidance
 

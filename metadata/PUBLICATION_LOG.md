@@ -3,8 +3,8 @@
 Repository:
 `Kot141078/qubit-of-hope-volume-i`
 
-Local path:
-`C:\Users\kotov\Desktop\AGI\qubit-of-hope-volume-i`
+Repository-relative publication root:
+`.`
 
 Publication timestamp:
 `2026-04-11T14:17:56.4614622+02:00`

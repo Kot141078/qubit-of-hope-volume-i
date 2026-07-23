@@ -41,3 +41,5 @@ Policy:
 - 2026-04-18T10:31:34+02:00 — no cover files changed.
 - 2026-04-18T10:31:34+02:00 — no backlink changes.
 - 2026-04-18T10:31:34+02:00 — no rights-policy changes.
+- 2026-07-23 — Current-version DOI `10.5281/zenodo.21505133` and all-versions DOI `10.5281/zenodo.21505132` synchronized across repository metadata and navigation.
+- 2026-07-23 — Post-deposit DOI synchronization. No literary text or cover artwork changed.

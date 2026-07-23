@@ -1,6 +1,16 @@
 # Qubit of Hope — Volume I
 
-## Release v1.0.2
+## Canonical publication
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21505132.svg)](https://doi.org/10.5281/zenodo.21505132)
+
+- Current release: [`v1.0.2`](https://github.com/Kot141078/qubit-of-hope-volume-i/releases/tag/v1.0.2)
+- Current-version DOI: [`10.5281/zenodo.21505133`](https://doi.org/10.5281/zenodo.21505133)
+- All-versions DOI: [`10.5281/zenodo.21505132`](https://doi.org/10.5281/zenodo.21505132)
+- Zenodo record: [`21505133`](https://zenodo.org/records/21505133)
+- Canonical website: [`https://ivankotov.eu/qubit-of-hope/`](https://ivankotov.eu/qubit-of-hope/)
+
+Post-deposit DOI synchronization. No literary text or cover artwork changed.
 
 v1.0.2 is a rights and public-metadata portability patch. The literary reading editions are byte-identical to v1.0.1.
 
@@ -141,11 +151,15 @@ That means:
 - drift is documented rather than hidden;
 - the repository can be used for reading immediately;
 - later normalization can happen as an explicit editorial step, not as a silent packaging accident.
-## Trilogy
+## Qubit of Hope trilogy
 
-- Volume I: `https://github.com/Kot141078/qubit-of-hope-volume-i`
-- Volume II: `https://github.com/Kot141078/qubit-of-hope-volume-ii`
-- Volume III: `https://github.com/Kot141078/qubit-of-hope-volume-iii`
+The trilogy consists of three separate books and three separate Zenodo records.
+
+| Volume | Repository | All-versions DOI | Website |
+|---|---|---|---|
+| Volume I | [`qubit-of-hope-volume-i`](https://github.com/Kot141078/qubit-of-hope-volume-i) | [`10.5281/zenodo.21505132`](https://doi.org/10.5281/zenodo.21505132) | [`/qubit-of-hope/`](https://ivankotov.eu/qubit-of-hope/) |
+| Volume II | [`qubit-of-hope-volume-ii`](https://github.com/Kot141078/qubit-of-hope-volume-ii) | [`10.5281/zenodo.21506199`](https://doi.org/10.5281/zenodo.21506199) | [`/qubit-of-hope-volume-ii/`](https://ivankotov.eu/qubit-of-hope-volume-ii/) |
+| Volume III | [`qubit-of-hope-volume-iii`](https://github.com/Kot141078/qubit-of-hope-volume-iii) | [`10.5281/zenodo.21507089`](https://doi.org/10.5281/zenodo.21507089) | [`/qubit-of-hope-volume-iii/`](https://ivankotov.eu/qubit-of-hope-volume-iii/) |
 
 ## Machine-readable metadata
 

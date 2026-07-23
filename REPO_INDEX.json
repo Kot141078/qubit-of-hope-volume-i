@@ -5,8 +5,11 @@
     "nl"
   ],
   "author": "Ivan Kotov",
+  "canonical_website": "https://ivankotov.eu/qubit-of-hope/",
   "citation_file": "CITATION.cff",
   "city": "Brussels",
+  "concept_doi": "10.5281/zenodo.21505132",
+  "concept_doi_url": "https://doi.org/10.5281/zenodo.21505132",
   "default_branch": "main",
   "downloads_file": "DOWNLOADS.md",
   "directories": [
@@ -98,7 +101,8 @@
     "Imported asset filenames are preserved as imported from the source tree.",
     "This repository is public for reading and preservation only.",
     "All Rights Reserved remains the governing rights posture.",
-    "Provisional bundles remain documented as provisional and are not silently normalized."
+    "Provisional bundles remain documented as provisional and are not silently normalized.",
+    "Post-deposit DOI synchronization. No literary text or cover artwork changed."
   ],
   "provisional_bundles": [
     "ru",
@@ -130,18 +134,50 @@
     "volume_ii": "https://github.com/Kot141078/qubit-of-hope-volume-ii",
     "volume_iii": "https://github.com/Kot141078/qubit-of-hope-volume-iii"
   },
+  "trilogy_navigation": [
+    {
+      "volume": 1,
+      "label": "Volume I",
+      "repository": "https://github.com/Kot141078/qubit-of-hope-volume-i",
+      "concept_doi": "10.5281/zenodo.21505132",
+      "concept_doi_url": "https://doi.org/10.5281/zenodo.21505132",
+      "website": "https://ivankotov.eu/qubit-of-hope/"
+    },
+    {
+      "volume": 2,
+      "label": "Volume II",
+      "repository": "https://github.com/Kot141078/qubit-of-hope-volume-ii",
+      "concept_doi": "10.5281/zenodo.21506199",
+      "concept_doi_url": "https://doi.org/10.5281/zenodo.21506199",
+      "website": "https://ivankotov.eu/qubit-of-hope-volume-ii/"
+    },
+    {
+      "volume": 3,
+      "label": "Volume III",
+      "repository": "https://github.com/Kot141078/qubit-of-hope-volume-iii",
+      "concept_doi": "10.5281/zenodo.21507089",
+      "concept_doi_url": "https://doi.org/10.5281/zenodo.21507089",
+      "website": "https://ivankotov.eu/qubit-of-hope-volume-iii/"
+    }
+  ],
   "trilogy_order": 1,
   "rights": "RIGHTS.json",
+  "license_title": "All Rights Reserved",
+  "license_url": "https://github.com/Kot141078/qubit-of-hope-volume-i/blob/v1.0.2/LICENSE.txt",
   "source_provenance_file": "metadata/SOURCE_PROVENANCE.md",
   "title": "Qubit of Hope — Volume I",
   "visibility": "public",
   "year": 2026,
   "repository": "https://github.com/Kot141078/qubit-of-hope-volume-i",
+  "version": "1.0.2",
+  "version_doi": "10.5281/zenodo.21505133",
+  "version_doi_url": "https://doi.org/10.5281/zenodo.21505133",
+  "zenodo_url": "https://zenodo.org/records/21505133",
   "volume_number": 1,
   "latest_release": "v1.0.2",
   "previous_release": "v1.0.1",
   "patch_type": "rights and public metadata portability patch",
-  "release_date": "2026-07-22",
+  "release_date": "2026-07-23",
   "status": "formal-public-release",
   "release": {
     "latest_release": "v1.0.2",
@@ -149,9 +185,10 @@
     "patch_type": "rights and public metadata portability patch",
     "latest_release_url": "https://github.com/Kot141078/qubit-of-hope-volume-i/releases/tag/v1.0.2",
     "previous_release_url": "https://github.com/Kot141078/qubit-of-hope-volume-i/releases/tag/v1.0.1",
-    "release_date": "2026-07-22",
+    "release_date": "2026-07-23",
     "github_release_created": true
   },
   "rights_file": "RIGHTS.json",
-  "release_statement": "v1.0.2 is a rights and public-metadata portability patch. The literary reading editions are byte-identical to v1.0.1."
+  "release_statement": "v1.0.2 is a rights and public-metadata portability patch. The literary reading editions are byte-identical to v1.0.1.",
+  "post_deposit_note": "Post-deposit DOI synchronization. No literary text or cover artwork changed."
 }

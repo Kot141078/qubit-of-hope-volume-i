@@ -4,15 +4,32 @@ Current repository state: formal public release.
 
 Latest GitHub Release: v1.0.2.
 
+Release URL:
+https://github.com/Kot141078/qubit-of-hope-volume-i/releases/tag/v1.0.2
+
 Previous release: v1.0.1.
 
 Patch type: rights and public metadata portability patch.
 
-Release date: 2026-07-22.
+Release date: 2026-07-23.
+
+Current-version DOI:
+https://doi.org/10.5281/zenodo.21505133
+
+All-versions DOI:
+https://doi.org/10.5281/zenodo.21505132
+
+Zenodo record:
+https://zenodo.org/records/21505133
+
+Canonical website:
+https://ivankotov.eu/qubit-of-hope/
 
 Rights: All rights reserved.
 
 No reading edition files or cover assets were changed in this patch.
+
+Post-deposit DOI synchronization. No literary text or cover artwork changed.
 
 Public reading and personal local download are allowed.
 
@@ -26,3 +43,6 @@ https://github.com/Kot141078/qubit-of-hope-volume-i
 v1.0.2 is a rights and public-metadata portability patch. The literary reading editions are byte-identical to v1.0.1.
 
 Rights files: `LICENSE.txt`, `NOTICE.txt`, `RIGHTS.json`, `AUDIOBOOK_RIGHTS.md`, `MEDIA_ADAPTATION_RIGHTS.md`.
+
+Pinned v1.0.2 licence:
+https://github.com/Kot141078/qubit-of-hope-volume-i/blob/v1.0.2/LICENSE.txt

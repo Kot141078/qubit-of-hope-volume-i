@@ -1,17 +1,27 @@
 cff-version: 1.2.0
-message: "If you cite this repository or the book editions it preserves, please cite the repository and name the author."
+message: "If you cite this repository or the book editions it preserves, cite the Qubit of Hope — Volume I v1.0.2 Zenodo record. All Rights Reserved; see the pinned license and rights files for reuse restrictions."
 title: "Qubit of Hope — Volume I"
-type: book
 authors:
   - family-names: "Kotov"
     given-names: "Ivan"
     alias: "Ivan Kotov"
 repository-code: "https://github.com/Kot141078/qubit-of-hope-volume-i"
-license: "All Rights Reserved"
+url: "https://ivankotov.eu/qubit-of-hope/"
+license-url: "https://github.com/Kot141078/qubit-of-hope-volume-i/blob/v1.0.2/LICENSE.txt"
+doi: "10.5281/zenodo.21505133"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.21505132"
+    description: "All-versions DOI for Qubit of Hope — Volume I"
 abstract: >
   Multilingual reading repository for Volume I of Qubit of Hope by Ivan Kotov.
   This repository preserves currently available publication assets across seven language editions
   and four reading formats, with transparent documentation of edition drift where present.
+  All Rights Reserved. Public reading and personal local download for reading are allowed.
+  Redistribution, mirroring, translation, derivative works, audiobook production, narration,
+  text-to-speech or synthetic-voice redistribution, media adaptation, AI training or dataset
+  redistribution, and commercial reuse require prior written permission from Ivan Kotov.
+  Post-deposit DOI synchronization. No literary text or cover artwork changed.
 keywords:
   - book
   - novel
@@ -23,5 +33,19 @@ keywords:
   - glass
   - continuity
   - Qubit of Hope
-version: "v1.0.0"
-date-released: 2026-04-18
+version: "1.0.2"
+date-released: "2026-07-23"
+preferred-citation:
+  type: book
+  title: "Qubit of Hope — Volume I"
+  authors:
+    - family-names: "Kotov"
+      given-names: "Ivan"
+      alias: "Ivan Kotov"
+  publisher:
+    name: "Ivan Kotov"
+  version: "1.0.2"
+  date-published: "2026-07-23"
+  doi: "10.5281/zenodo.21505133"
+  url: "https://zenodo.org/records/21505133"
+  license-url: "https://github.com/Kot141078/qubit-of-hope-volume-i/blob/v1.0.2/LICENSE.txt"
